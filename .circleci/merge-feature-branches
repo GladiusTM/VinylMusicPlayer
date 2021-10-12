@@ -63,8 +63,8 @@ done
 # Space separated list, each following the 'login/repo/branch' format
 #    Octoton/VinylMusicPlayer/separate_playingqueue_in_musicservice
 alien_branches="
-    bertin0/VinylMusicPlayer/master
     newhinton/VinylMusicPlayer/master
+    Octoton/VinylMusicPlayer/missing_red_delete_color
 "
 
 for alien_branch in ${alien_branches}; do
